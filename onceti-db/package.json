@@ -1,0 +1,19 @@
+{
+  "name": "onceti-db",
+  "version": "1.0.0",
+  "description": "A Simple Ti Plataform - DB Module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Edwineverth/onceti.git"
+  },
+  "author": "Edwin Belduma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Edwineverth/onceti/issues"
+  },
+  "homepage": "https://github.com/Edwineverth/onceti#readme"
+}
